@@ -1,0 +1,1 @@
+british airways data science job simulation, scraping British airways customer reviews from skytrax using beautiful soup and running analysis on it to derive insights. and other data analysis projects.
